@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using System.Xml;
+using System.Linq;
 
 namespace Ipatov.PodcastRssClient.Podcast.Internal
 {
@@ -87,12 +88,16 @@ namespace Ipatov.PodcastRssClient.Podcast.Internal
             try
             {
                 if (string.IsNullOrWhiteSpace(interval))
-                {
                     return null;
-                }
-                interval = interval.Trim();
-                //return XmlConvert.ToTimeSpan(interval);
-                return TimeSpan.Parse(interval);
+                var sections = interval.Trim().Split(':').Select(s => int.Parse(s)).ToList();
+                if (sections.Count > 2)
+                    return new TimeSpan(sections[0], sections[1], sections[2]);
+                else if (sections.Count > 1)
+                    return new TimeSpan(0, sections[0], sections[1]);
+                else if (sections.Count > 0)
+                    return new TimeSpan(0, 0, sections[0]);
+                else
+                    return null;
             }
             catch
             {
