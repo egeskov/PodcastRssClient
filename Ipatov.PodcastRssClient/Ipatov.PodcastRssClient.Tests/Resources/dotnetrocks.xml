@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+
+    <channel>
+        <ttl>30</ttl>
+        <title>.NET Rocks!</title>
+        <link>http://www.dotnetrocks.com</link>
+        <language>en-us</language>
+        <description>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</description>
+        <copyright>Copyright &#xA9; 2002-2016 by Pwop Productions</copyright>
+        <managingEditor>carl@franklins.net (Carl Franklin) (Carl Franklin)</managingEditor>
+        <webMaster>carl@franklins.net (Carl Franklin) (Carl Franklin)</webMaster>
+        <rating>PG</rating>
+        <pubDate>Mon, 15 Feb 2016 00:00:00 EST</pubDate>
+        <lastBuildDate>Wed, 07 Dec 2016 00:00:00 EST</lastBuildDate>
+        <cloud domain="http://www.dotnetrocks.com" port="80" path="/RPC2" registerProcedure="pingMe" protocol="soap"> </cloud>
+        <atom:link href="http://www.pwop.com%2ffeed.aspx%3fshow%3ddotnetrocks" rel="self" type="application/rss+xml" />
+        <image>
+            <url>http://www.pwop.com/itunes_dnr.jpg</url>
+            <title>.NET Rocks!</title>
+            <link>http://www.dotnetrocks.com</link>
+            <width>144</width>
+            <height>300</height>
+            <description>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</description>
+        </image>
+        <category>Programming</category>
+        <category>Talk</category>
+        <category>VB.NET</category>
+        <category>ASP.NET</category>
+        <category>Podcast</category>
+
+        <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:author>Carl Franklin</itunes:author>
+        <itunes:summary>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:summary>
+        <itunes:owner>
+            <itunes:name>Carl Franklin</itunes:name>
+            <itunes:email>carl@franklins.net (Carl Franklin)</itunes:email>
+        </itunes:owner>
+
+        <itunes:image href="http://www.pwop.com/itunes_dnr.jpg" />
+        <itunes:category text="Technology">
+            <itunes:category text="Software How-To"/>
+        </itunes:category>
+        <itunes:category text="Technology">
+            <itunes:category text="Gadgets"/>
+        </itunes:category>
+        <itunes:category text="Technology">
+            <itunes:category text="Software How-To"/>
+        </itunes:category>
+
+
+
+        <item>
+            <title>Imposter Syndrome with Rob Conery</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1385</link>
+            <pubDate>Thu, 08 Dec 2016 00:00:00 EDT</pubDate>
+            <description>Are you an imposter? Carl and Richard talk to Rob Conery about his battle with imposter syndrome - starting with a definition. Rob talks about how often folks that don't have formal computing science education feel like they are faking it when it comes to software development, no matter how significant their contributions are. And part of his process for dealing with his own issues was to write a book on the subject - self-published. One of the focuses of the book is to dig into core concepts in computing science that are actually valuable in your day-to-day development efforts, such as estimating the difficulty of a computing problem or describing core algorithmic concepts. Learn from the smart people that have come before in computing!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1385">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1385</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>Are you an imposter? Carl and Richard talk to Rob Conery about his battle with imposter syndrome - starting with a definition. Rob talks about how often folks that don't have formal computing science education feel like they are faking it when it comes to software development, no matter how significant their contributions are. And part of his process for dealing with his own issues was to write a book on the subject - self-published. One of the focuses of the book is to dig into core concepts in computing science that are actually valuable in your day-to-day development efforts, such as estimating the difficulty of a computing problem or describing core algorithmic concepts. Learn from the smart people that have come before in computing!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1385_imposter_syndrome.mp3" length="52371912" type="audio/mp3" />
+
+            <itunes:duration>00:56:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>ASP.NET Core Security with Roland Guijt</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1384</link>
+            <pubDate>Wed, 07 Dec 2016 00:00:00 EDT</pubDate>
+            <description>How does security work in ASP.NET Core? Carl and Richard talk to Roland Guijt about the security features of ASP.NET Core - many of which are the same as the original .NET, but there are some significant changes! The conversation starts out dealing with the idea that retrofitting security at the end of a project is fraught with perils that ultimately endanger your application and users. It's worth taking some time to figure out how security is going to be part of your app from the beginning. Roland talks about what makes sense to build directly into your ASP.NET Core app and what can be externalized with tools like Identity Server. And there are claims - lots of claims!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1384">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1384</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>How does security work in ASP.NET Core? Carl and Richard talk to Roland Guijt about the security features of ASP.NET Core - many of which are the same as the original .NET, but there are some significant changes! The conversation starts out dealing with the idea that retrofitting security at the end of a project is fraught with perils that ultimately endanger your application and users. It's worth taking some time to figure out how security is going to be part of your app from the beginning. Roland talks about what makes sense to build directly into your ASP.NET Core app and what can be externalized with tools like Identity Server. And there are claims - lots of claims!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1384_aspnetcoresecurity.mp3" length="46973013" type="audio/mp3" />
+
+            <itunes:duration>00:48:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Understanding Entity Framework Core with Julie Lerman</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1383</link>
+            <pubDate>Tue, 06 Dec 2016 00:00:00 EDT</pubDate>
+            <description>Entity Framework Core has shipped - now what? Carl and Richard talk to Julie Lerman about what this new version of Entity Framework does to the data layer. Julie digs into how EF Core has the same relationship with EF 6.x as ASP.NET Core has to ASP.NET 4.x - they are parallel versions aimed at different goals. The Core editions are all about cross-platform where the originals continue to be Windows-centric. Both versions of Entity Framework are open source on GitHub so you can see the development is on-going - and participate in it if you wish!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1383">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1383</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>Entity Framework Core has shipped - now what? Carl and Richard talk to Julie Lerman about what this new version of Entity Framework does to the data layer. Julie digs into how EF Core has the same relationship with EF 6.x as ASP.NET Core has to ASP.NET 4.x - they are parallel versions aimed at different goals. The Core editions are all about cross-platform where the originals continue to be Windows-centric. Both versions of Entity Framework are open source on GitHub so you can see the development is on-going - and participate in it if you wish!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1383_ef_core.mp3" length="61925503" type="audio/mp3" />
+
+            <itunes:duration>01:04:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Business Anti-Patterns with Steve Smith</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1382</link>
+            <pubDate>Thu, 01 Dec 2016 00:00:00 EDT</pubDate>
+            <description>There are software design patterns and anti-patterns, but does the same hold true for business? Carl and Richard talk to Steve Smith about business anti-patterns, that is, practices and approaches to business that while they may appear to be useful on the surface, are actually quite harmful. While the problem tends to be around development, since it's often not understood by business, many of these anti-patterns affect all aspects of a business. </description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1382">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1382</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>There are software design patterns and anti-patterns, but does the same hold true for business? Carl and Richard talk to Steve Smith about business anti-patterns, that is, practices and approaches to business that while they may appear to be useful on the surface, are actually quite harmful. While the problem tends to be around development, since it's often not understood by business, many of these anti-patterns affect all aspects of a business. </itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1382_business_antipatterns.mp3" length="45362085" type="audio/mp3" />
+
+            <itunes:duration>00:49:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Progressive Web Apps with Kirupa Chinnathambi</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1381</link>
+            <pubDate>Wed, 30 Nov 2016 00:00:00 EDT</pubDate>
+            <description>What the heck is a Progressive Web App? Carl and Richard talk to Kirupa Chinnathambi about his experiences building at the edge of the modern web with Progressive Web Apps (PWAs). PWAs are trying to bridge the gap between traditional applications and web applications, starting with keeping a web app functional when there is an interruption in Internet connection. But it's more than that - how do you appear as an icon on a desktop or app surface, provide notifications and otherwise look and act like every other kind of application? Check it out!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1381">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1381</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>What the heck is a Progressive Web App? Carl and Richard talk to Kirupa Chinnathambi about his experiences building at the edge of the modern web with Progressive Web Apps (PWAs). PWAs are trying to bridge the gap between traditional applications and web applications, starting with keeping a web app functional when there is an interruption in Internet connection. But it's more than that - how do you appear as an icon on a desktop or app surface, provide notifications and otherwise look and act like every other kind of application? Check it out!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1381_progressivewebapps.mp3" length="48404523" type="audio/mp3" />
+
+            <itunes:duration>00:50:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Building an Azure Search Engine with Anthony Brown</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1380</link>
+            <pubDate>Tue, 29 Nov 2016 00:00:00 EDT</pubDate>
+            <description>How hard is it to build a search engine? Carl and Richard talk to Anthony Brown about his efforts to build his own search engine using Azure and F#. The conversation starts out with the question "Why?" which quickly turns into an indictment of the modern search engine, which, while useful, is bothered by the necessities of business with advertising and gaming of the system. Anthony talks about getting effective at exploring web pages for meaningful content using the ability of F# to write intelligent, tolerant parsing. Azure Search plays a huge role in taking that data and indexing in a way that makes it fast. Lots of great thinking about how these complex problems get solved!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1380">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1380</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>How hard is it to build a search engine? Carl and Richard talk to Anthony Brown about his efforts to build his own search engine using Azure and F#. The conversation starts out with the question "Why?" which quickly turns into an indictment of the modern search engine, which, while useful, is bothered by the necessities of business with advertising and gaming of the system. Anthony talks about getting effective at exploring web pages for meaningful content using the ability of F# to write intelligent, tolerant parsing. Azure Search plays a huge role in taking that data and indexing in a way that makes it fast. Lots of great thinking about how these complex problems get solved!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1380_building_a_search_engine.mp3" length="46077744" type="audio/mp3" />
+
+            <itunes:duration>00:47:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>SQL Choices with Tony Petrossian</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1379</link>
+            <pubDate>Thu, 24 Nov 2016 00:00:00 EDT</pubDate>
+            <description>The choices for SQL Server continue to expand! With last week's announcements at Connect, SQL Server is coming to Linux in a big way. What does that mean for the average consumer of SQL Server? Tony talks about the on-going evolution of the product to store data in lots of different ways, not just relational. And on top of that, the latest SQL Server is great at taking relational data and making it available in super-fast and efficient ways. There are more SQL choices than every before!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1379">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1379</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>The choices for SQL Server continue to expand! With last week's announcements at Connect, SQL Server is coming to Linux in a big way. What does that mean for the average consumer of SQL Server? Tony talks about the on-going evolution of the product to store data in lots of different ways, not just relational. And on top of that, the latest SQL Server is great at taking relational data and making it available in super-fast and efficient ways. There are more SQL choices than every before!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1379_sql_choices.mp3" length="43557447" type="audio/mp3" />
+
+            <itunes:duration>00:48:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Science of Great UI with Mark Miller</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1378</link>
+            <pubDate>Wed, 23 Nov 2016 00:00:00 EDT</pubDate>
+            <description>What does it take to make a really great UI? Carl and Richard talk to Mark Miller about his latest work on helping people build the best possible UI. Mark has developed an amazing course teaching all of the details of making a great UI, directly connecting it to how humans see, perceive and interact with technology. Color, contrast, hue and intensity all affect perception of information on the screen, and Mark has organized every bit of it with awesome examples to help you make a really great UI. Check it out!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1378">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1378</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>What does it take to make a really great UI? Carl and Richard talk to Mark Miller about his latest work on helping people build the best possible UI. Mark has developed an amazing course teaching all of the details of making a great UI, directly connecting it to how humans see, perceive and interact with technology. Color, contrast, hue and intensity all affect perception of information on the screen, and Mark has organized every bit of it with awesome examples to help you make a really great UI. Check it out!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1378_scienceofgreatui.mp3" length="57373927" type="audio/mp3" />
+
+            <itunes:duration>00:59:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>The Marketing of .NET with Beth Massi</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1377</link>
+            <pubDate>Tue, 22 Nov 2016 00:00:00 EDT</pubDate>
+            <description>.NET used to be all about Windows - but it's not anymore! How do you market something so diverse? Carl and Richard talk to Beth Massi about her new role as the Marketing Manager for .NET. Today .NET runs on all sorts of platforms, and you can develop .NET code on multiple platforms as well. Beth talks about reaching out to the new audiences that may have never considered .NET before because of it's former focus on Windows. Now .NET runs everywhere, on all sorts of devices, and into even more operating systems. Where would you like your code to run?</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1377">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1377</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>.NET used to be all about Windows - but it's not anymore! How do you market something so diverse? Carl and Richard talk to Beth Massi about her new role as the Marketing Manager for .NET. Today .NET runs on all sorts of platforms, and you can develop .NET code on multiple platforms as well. Beth talks about reaching out to the new audiences that may have never considered .NET before because of it's former focus on Windows. Now .NET runs everywhere, on all sorts of devices, and into even more operating systems. Where would you like your code to run?</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1377_marketing_dotnet.mp3" length="50605496" type="audio/mp3" />
+
+            <itunes:duration>00:52:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Connect Debrief with Scott Hunter</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1376</link>
+            <pubDate>Thu, 17 Nov 2016 00:00:00 EDT</pubDate>
+            <description>So many amazing things announced at Connect! Carl and Richard talk to Scott Hunter about his favorite bits of Connect, including a ton of important announcements including new support in Visual Studio for containers, cool new integration with SQL Server 2016, the on-going evolution of .NET Core and it's tooling and so much more! You've seen the keynotes, now listen to a deeper dive with one of the key people behind .NET today!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1376">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1376</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>So many amazing things announced at Connect! Carl and Richard talk to Scott Hunter about his favorite bits of Connect, including a ton of important announcements including new support in Visual Studio for containers, cool new integration with SQL Server 2016, the on-going evolution of .NET Core and it's tooling and so much more! You've seen the keynotes, now listen to a deeper dive with one of the key people behind .NET today!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1376_connect_debrief.mp3" length="53996308" type="audio/mp3" />
+
+            <itunes:duration>00:57:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Mobile Development using F# with Scott Nimrod</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1375</link>
+            <pubDate>Wed, 16 Nov 2016 00:00:00 EDT</pubDate>
+            <description>Functional programming for mobile development? Carl and Richard talk to Scott Nimrod about his experiences building mobile apps with Xamarin using F# as the primary programming language. Does functional make sense for mobile development? Sure, but F# can handle OOP problems too. Scott calls it "functional first". The conversation digs into the power of staying within Visual Studio - tools that you know and understand! But there are also features in Visual Studio that don't necessarily work well (or the same) with F#, so it does take time to learn your way around your new language. But worth it!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1375">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1375</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>Functional programming for mobile development? Carl and Richard talk to Scott Nimrod about his experiences building mobile apps with Xamarin using F# as the primary programming language. Does functional make sense for mobile development? Sure, but F# can handle OOP problems too. Scott calls it "functional first". The conversation digs into the power of staying within Visual Studio - tools that you know and understand! But there are also features in Visual Studio that don't necessarily work well (or the same) with F#, so it does take time to learn your way around your new language. But worth it!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1375_mobilefsharp.mp3" length="49913774" type="audio/mp3" />
+
+            <itunes:duration>00:51:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>JavaScriptServices with Steve Sanderson</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1374</link>
+            <pubDate>Tue, 15 Nov 2016 00:00:00 EDT</pubDate>
+            <description>How do you get to coding quickly with the new web development frameworks? Carl and Richard talk to Steve Sanderson about JavaScriptServices, which is actually a set of templates for helping you set up your development environment for Angular, Knockout, React and/or React-Redux. Steve talks about all the bits and pieces necessary to actually get to your code-run-debug cycle of development. Along the way he mentions a number of tools involved to make life easier, including Yeoman and WebPack. The conversation also turns to this diversity of client development stacks and the philosophy behind them - more great thinking by a web leader!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1374">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1374</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>How do you get to coding quickly with the new web development frameworks? Carl and Richard talk to Steve Sanderson about JavaScriptServices, which is actually a set of templates for helping you set up your development environment for Angular, Knockout, React and/or React-Redux. Steve talks about all the bits and pieces necessary to actually get to your code-run-debug cycle of development. Along the way he mentions a number of tools involved to make life easier, including Yeoman and WebPack. The conversation also turns to this diversity of client development stacks and the philosophy behind them - more great thinking by a web leader!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1374_javascriptservices.mp3" length="53439677" type="audio/mp3" />
+
+            <itunes:duration>00:55:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>DC Lighting Geek Out</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1373</link>
+            <pubDate>Thu, 10 Nov 2016 00:00:00 EDT</pubDate>
+            <description>DC Lighting real, and Richard has installed it! Time for a Geek Out! You've heard bits and pieces about the flood in Richard's basement and the year long effort to get it restored and renovated - including DC LED lighting! Richard discusses his experience getting the LumenCache lighting system working in his basement, along with the various kinds of lights possible: new dedicated LED light fixtures, refitting existing light fixtures with LED and custom making LED lighting with aluminum extrusions and LED light tape. Power efficient, cool running and cool looking - this is what modern lighting should be!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1373">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1373</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>DC Lighting real, and Richard has installed it! Time for a Geek Out! You've heard bits and pieces about the flood in Richard's basement and the year long effort to get it restored and renovated - including DC LED lighting! Richard discusses his experience getting the LumenCache lighting system working in his basement, along with the various kinds of lights possible: new dedicated LED light fixtures, refitting existing light fixtures with LED and custom making LED lighting with aluminum extrusions and LED light tape. Power efficient, cool running and cool looking - this is what modern lighting should be!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1373_dc_lighting_geek_out.mp3" length="49104503" type="audio/mp3" />
+
+            <itunes:duration>00:50:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Building Mobile Apps using MFractor with Matthew Robbins</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1372</link>
+            <pubDate>Wed, 09 Nov 2016 00:00:00 EDT</pubDate>
+            <description>Making mobile apps is never simple - but it can be made easier! Carl and Richard talk to Matthew Robbins about MFractor, a tool designed to help you build mobile apps using Xamarin across platforms more easily. Matthew talks about the challenges of trying to create common code (typically C#) in Xamarin that actually runs correcting in Android and iOS. A big part of MFractor is the code analysis tooling that helps you verify correctness for schema assignments, references, and so on. There's also help with code generations, navigation and a variety of other utilities. Check it out!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1372">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1372</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>Making mobile apps is never simple - but it can be made easier! Carl and Richard talk to Matthew Robbins about MFractor, a tool designed to help you build mobile apps using Xamarin across platforms more easily. Matthew talks about the challenges of trying to create common code (typically C#) in Xamarin that actually runs correcting in Android and iOS. A big part of MFractor is the code analysis tooling that helps you verify correctness for schema assignments, references, and so on. There's also help with code generations, navigation and a variety of other utilities. Check it out!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1372_mfractor.mp3" length="45054162" type="audio/mp3" />
+
+            <itunes:duration>00:46:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>.NET Standard with Immo Landwerth</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1371</link>
+            <pubDate>Tue, 08 Nov 2016 00:00:00 EDT</pubDate>
+            <description>So many versions of .NET Framework, so little time! Carl and Richard chat with Immo Landwerth about the .NET Standard specifications. Now that .NET has gone cross-platform, the sheer number of implementations of the framework can be overwhelming. And if you're building products for .NET, how do you communicate with your customers about what your product will work with? This is what the .NET Standard is all about - setting specific rules on what needs to be implemented to comply with a specific version of the framework. It's early days yet, but at least there is a plan to keep everyone organized. Dive in!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1371">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1371</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>So many versions of .NET Framework, so little time! Carl and Richard chat with Immo Landwerth about the .NET Standard specifications. Now that .NET has gone cross-platform, the sheer number of implementations of the framework can be overwhelming. And if you're building products for .NET, how do you communicate with your customers about what your product will work with? This is what the .NET Standard is all about - setting specific rules on what needs to be implemented to comply with a specific version of the framework. It's early days yet, but at least there is a plan to keep everyone organized. Dive in!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1371_dotnet_standard.mp3" length="57757133" type="audio/mp3" />
+
+            <itunes:duration>00:59:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Data Lakes with Michael Rys</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1370</link>
+            <pubDate>Thu, 03 Nov 2016 00:00:00 EDT</pubDate>
+            <description>Data Lakes are growing up, and you want one! While at Ignite in Atlanta, Carl and Richard sat down with Michael Rys to talk about Azure Data Lakes - a place to store your data "as is" so that you can easily query and organize the data for further analysis. Michael discusses the problems of data warehouses, with their Extract-Transform-Load (ETL) processes that manipulate the data into a particular shape for the warehouse - and make it harder to ask new questions of the data. Leave the data as it is in the data lake and then build mechanism to extract on demand for the various data marts you have. The conversation turns to USQL (U as in Universal) and HDInsights (Hadoop) as different ways to extract data from the Data Lake for analysis. Lots of choices!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1370">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1370</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>Data Lakes are growing up, and you want one! While at Ignite in Atlanta, Carl and Richard sat down with Michael Rys to talk about Azure Data Lakes - a place to store your data "as is" so that you can easily query and organize the data for further analysis. Michael discusses the problems of data warehouses, with their Extract-Transform-Load (ETL) processes that manipulate the data into a particular shape for the warehouse - and make it harder to ask new questions of the data. Leave the data as it is in the data lake and then build mechanism to extract on demand for the various data marts you have. The conversation turns to USQL (U as in Universal) and HDInsights (Hadoop) as different ways to extract data from the Data Lake for analysis. Lots of choices!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1370_data_lakes.mp3" length="52390057" type="audio/mp3" />
+
+            <itunes:duration>00:56:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Web Accessibility with Aaron Gustafson</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1369</link>
+            <pubDate>Wed, 02 Nov 2016 00:00:00 EDT</pubDate>
+            <description>What does it take to make the web more accessible? Carl and Richard talk to Aaron Gustafson about his years of work helping to create and support standards for accessibility on the web - all kinds of accessibility. While supporting visual and hearing impaired is important, there are so many more aspects to accessibility, especially today where those capabilities translate into new devices that make focus on speech or other completely different UI paradigms. The good news is, the tooling is getting better (check the links on the web page) to make it easy for you to keep accessibility in your mind as you code - don't bolt on at the end!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1369">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1369</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>What does it take to make the web more accessible? Carl and Richard talk to Aaron Gustafson about his years of work helping to create and support standards for accessibility on the web - all kinds of accessibility. While supporting visual and hearing impaired is important, there are so many more aspects to accessibility, especially today where those capabilities translate into new devices that make focus on speech or other completely different UI paradigms. The good news is, the tooling is getting better (check the links on the web page) to make it easy for you to keep accessibility in your mind as you code - don't bolt on at the end!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1369_webaccessibility.mp3" length="53487325" type="audio/mp3" />
+
+            <itunes:duration>00:55:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Azure API Management with Vishwas Lele</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1368</link>
+            <pubDate>Tue, 01 Nov 2016 00:00:00 EDT</pubDate>
+            <description>Are you afraid to make your API public? You should be! Carl and Richard talk to Vishwas Lele about Azure API Management, the safe an effective way to expose your API to the world and not take down your system. Vishwas talks about the array of problems in front of you once the public has access to your API: What happens if it's too popular for it's own good? Or someone builds runaway software that hammers it constantly? Or you want granular control over who can call your API, how often, and how fast? That's where Azure API Management comes in, taking on all of the front end side of APIs, even if you run the application behind the API on-premise. Check it out!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1368">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1368</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>Are you afraid to make your API public? You should be! Carl and Richard talk to Vishwas Lele about Azure API Management, the safe an effective way to expose your API to the world and not take down your system. Vishwas talks about the array of problems in front of you once the public has access to your API: What happens if it's too popular for it's own good? Or someone builds runaway software that hammers it constantly? Or you want granular control over who can call your API, how often, and how fast? That's where Azure API Management comes in, taking on all of the front end side of APIs, even if you run the application behind the API on-premise. Check it out!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1368_azure_api_management.mp3" length="53434056" type="audio/mp3" />
+
+            <itunes:duration>00:55:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>WiX Toolset with Rob Mensching</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1367</link>
+            <pubDate>Thu, 27 Oct 2016 00:00:00 EDT</pubDate>
+            <description>Installation is in chaos! Carl and Richard talk to Rob Mensching about the crazy amount of change that has come to distributing and installing software. The conversation references a comment from a listener about the diversity of server installation solutions including MSDeploy. But what about the desktop? As Rob says, things have been pretty stable for a long time with the MSI - and Rob led the WiX Toolset project to make MSIs. But with AppStores, MSIs are looking long in the tooth. What does the new desktop installation look like?</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1367">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1367</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>Installation is in chaos! Carl and Richard talk to Rob Mensching about the crazy amount of change that has come to distributing and installing software. The conversation references a comment from a listener about the diversity of server installation solutions including MSDeploy. But what about the desktop? As Rob says, things have been pretty stable for a long time with the MSI - and Rob led the WiX Toolset project to make MSIs. But with AppStores, MSIs are looking long in the tooth. What does the new desktop installation look like?</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1367_wix_toolkit.mp3" length="51249808" type="audio/mp3" />
+
+            <itunes:duration>00:57:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Angular 2 Docs with Ward Bell</title>
+            <link>http://www.dotnetrocks.com/default.aspx?ShowNum=1366</link>
+            <pubDate>Wed, 26 Oct 2016 00:00:00 EDT</pubDate>
+            <description>How can you be successful with a product without good documentation? You can't! Carl and Richard talk to Ward Bell, who is serving as editor in chief for Angular docs. After complaining about the quality problems with the Angular documentation, Ward found himself in charge of the problem - and has taken it on in a big way. The docs themselves are developed in GitHub, so anyone can contribute. The challenge is making sure they're good - everything is driven by coding samples that are as simple as they need to be and follow strict standards. The result is docs you can trust - first and foremost they are correct, and hopefully effective at getting you productive with Angular!</description>
+            <source url="http://www.dotnetrocks.com/default.aspx?ShowNum=1366">.NET Rocks!</source>
+            <guid isPermaLink="true">http://www.dotnetrocks.com/default.aspx?ShowNum=1366</guid>
+            <itunes:author>Carl Franklin</itunes:author>
+            <itunes:subtitle>.NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.</itunes:subtitle>
+            <itunes:summary>How can you be successful with a product without good documentation? You can't! Carl and Richard talk to Ward Bell, who is serving as editor in chief for Angular docs. After complaining about the quality problems with the Angular documentation, Ward found himself in charge of the problem - and has taken it on in a big way. The docs themselves are developed in GitHub, so anyone can contribute. The challenge is making sure they're good - everything is driven by coding samples that are as simple as they need to be and follow strict standards. The result is docs you can trust - first and foremost they are correct, and hopefully effective at getting you productive with Angular!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/dnr/dotnetrocks_1366_angulardocs.mp3" length="54571929" type="audio/mp3" />
+
+            <itunes:duration>00:56:00</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+
+    </channel>
+</rss>
+

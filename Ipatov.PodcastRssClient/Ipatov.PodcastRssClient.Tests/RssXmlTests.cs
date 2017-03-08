@@ -16,6 +16,8 @@ namespace Ipatov.PodcastRssClient.Tests
         private const string AboveAndBeyondXml = "abovebeyond.xml";
         private const string EsessionsXml = "esessions.xml";
         private const string FraneticXml = "franetic.xml";
+        private const string DotNetRocks = "dotnetrocks.xml";
+        private const string NprTed = "NprTed.xml";
 
         private Uri GetTestXmlUri(string name)
         {
@@ -118,6 +120,24 @@ namespace Ipatov.PodcastRssClient.Tests
             var episode = franetic.Episodes.FirstOrDefault(e => e.Order == 0);
             Assert.IsNotNull(episode);
             Assert.IsNotNull(episode.ImageUrl);
+        }
+
+        [TestMethod]
+        public async Task TestPubDateForDotNetRocks()
+        {
+            var dnr = await LoadChannel(DotNetRocks);
+            var episode = dnr.Episodes.FirstOrDefault();
+            Assert.IsNotNull(episode);
+            Assert.IsNotNull(episode.PubDate);
+        }
+
+        [TestMethod]
+        public async Task TestDurationForNprTed()
+        {
+            var dnr = await LoadChannel(NprTed);
+            var episode = dnr.Episodes.FirstOrDefault();
+            Assert.IsNotNull(episode);
+            Assert.IsNotNull(episode.Duration);
         }
     }
 }
